@@ -4,6 +4,10 @@ This is a simple Django application that allows you to create, modify and delete
 
 Django REST framework brings an easy way to build the backend of an application with good error handling.
 
+Before running the app, you will need to install ```django``` and ```djangorestframework``` packages; this project includes a **requirements.txt** file to help you installing this packages. It is necessary to have installed ```python```and ```pip``` in your system; then, you can create a virtual environment and install the project dependecies by executing the following command from the root directory of this repository:
+
+```pip install -r requirements.txt```
+
 In order to properly run this app, it is necessary to download or clone this repository and execute the following command from inside **django_app** directory:
 
 ```` python manage.py runserver````
