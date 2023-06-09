@@ -1,6 +1,6 @@
 # Task Manager app
 
-This is a simple Django application that allows you to create, modify and delete tasks from an SQLite database. Also, you will be able to get a list of all the existing tasks.
+This is a simple Django application that allows you to create, modify and delete tasks from an SQLite database (you will find it inside **/django_app** directory as **db.sqlite3**). Also, you will be able to get a list of all the existing tasks.
 
 Django REST framework brings an easy way to build the backend of an application with good error handling.
 
